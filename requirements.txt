@@ -5,3 +5,4 @@ einops
 shap
 seaborn
 scikit-image
+streamlit
